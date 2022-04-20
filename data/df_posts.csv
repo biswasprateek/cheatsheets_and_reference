@@ -1,0 +1,22 @@
+post_id,user_id,post_text,post_keywords,post_date,post_views
+0,2,The Lakers game from last night was great.,"basketball , lakers , nba",4/14/2021,63
+1,1,Lebron James is top class.,"basketball , lebron_james , nba",2/18/2019,7
+2,2,Asparagus tastes OK.,"asparagus , food",3/6/2020,23
+3,1,Spaghetti is an Italian food.,"spaghetti , food",8/24/2019,33
+4,3,User 3 is not sharing interests,#spam#,4/4/2020,98
+5,5,Sachin ig a cricket god,cricket,11/18/2019,72
+6,5,She gave him a piece of paper.,person,12/23/2019,64
+7,8,The game became exciting.,game,1/31/2021,42
+8,9,He's really selfish.,personal behaviour,6/4/2020,47
+9,3,She was already in love with him.,personal behaviour,12/27/2019,55
+10,10,She didn't intend to let him kiss her.,abuse,4/6/2020,78
+11,4,Let's go to Argentina.,"travel , latin",4/26/2019,50
+12,5,My uncle has lived in Paris for ten years.,travel,8/13/2019,6
+13,6,He had a bitter experience.,abuse,12/24/2020,49
+14,7,I need an envelope.,personal interest,1/2/2019,89
+15,8,They agreed to start early.,work,4/28/2020,59
+16,9,He is a loser,abuse,10/2/2020,7
+17,10,Which air conditioner do you think is the most efficient?,electronics,2/9/2020,52
+18,1,What's Ken doing now?,personal interest,3/23/2021,37
+19,2,You can't turn around here. I think you should let me drive.,"travel , cars",3/17/2021,2
+20,3,I don't feel safe walking in that neighborhood at night.,"travel, safety, danger",12/2/2019,1
