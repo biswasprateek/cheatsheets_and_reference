@@ -1,0 +1,7 @@
+group_id,group_name,post_id,post_user_id,post_views
+1,Travelers,0,2,10
+2,Watches,1,1,100
+3,Photography,2,2,4
+4,Exercise,3,1,5
+1,Travelers,4,3,2000
+2,Watches,5,5,32

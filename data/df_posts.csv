@@ -1,4 +1,4 @@
-post_id,user_id,post_text,post_keywords,post_date,post_views
+post_id,post_user_id,post_text,post_keywords,post_date,post_views
 0,2,The Lakers game from last night was great.,"basketball , lakers , nba",4/14/2021,63
 1,1,Lebron James is top class.,"basketball , lebron_james , nba",2/18/2019,7
 2,2,Asparagus tastes OK.,"asparagus , food",3/6/2020,23
